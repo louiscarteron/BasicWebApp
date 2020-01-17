@@ -12,7 +12,7 @@ public class IndexPage extends HtmlPage {
                   "<form><input type=\"text\" name=\"q\" />" +
                     "<input type=\"submit\">" +
                   "</form>" +
-                    "</br>" + 
+                    "</br>" +
                     "We hope this was useful!" +
                 "</p>");
     }
