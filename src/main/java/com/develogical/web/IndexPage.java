@@ -12,6 +12,8 @@ public class IndexPage extends HtmlPage {
                   "<form><input type=\"text\" name=\"q\" />" +
                     "<input type=\"submit\">" +
                   "</form>" +
+                    "</br>" + 
+                    "We hope this was useful!" +
                 "</p>");
     }
     
